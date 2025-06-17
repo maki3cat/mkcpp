@@ -9,3 +9,6 @@ enable_testing()
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
 include(CPack)
+
+set(CMAKE_CXX_STANDARD 17) # Or 11, 14, 20 depending on your preference
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
