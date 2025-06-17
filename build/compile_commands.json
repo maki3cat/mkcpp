@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/maki/projects/mkcpp/build",
+  "command": "/usr/bin/c++   -g -arch arm64 -o CMakeFiles/mkcpp.dir/main.cpp.o -c /Users/maki/projects/mkcpp/main.cpp",
+  "file": "/Users/maki/projects/mkcpp/main.cpp",
+  "output": "CMakeFiles/mkcpp.dir/main.cpp.o"
+}
+]
