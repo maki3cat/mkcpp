@@ -10,7 +10,7 @@
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
             "environment": [],
-            "targetArchitecture": "arm64",
+            // "targetArchitecture": "arm64",
             "externalConsole": false,
             "MIMode": "lldb",
             "preLaunchTask": "C/C++: clang++ build active file"
